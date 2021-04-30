@@ -1,3 +1,6 @@
+[![LICENSE](https://img.shields.io/github/license/Carlosjr5/sem.svg?style=flat-square)](https://github.com/Carlosjr5/Connect-4-Game/LICENSE)
+
+
 Welcome to the Connect 4 game created by Carlos Jimenez Rodriguez for SET08122 Algorithms and Data Structure.
 
 Steps to compile the game:
