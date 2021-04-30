@@ -11,3 +11,5 @@ Steps to compile the game:
 4.Type: "cl main.c", it will compile.
 
 5. Once is compiled then just type "./main" and the game will start and will create the .exe in the folder.
+
+// For mac it will be "gcc -o main main.c" and then when it compile "./main" and PLAAAYYY!
